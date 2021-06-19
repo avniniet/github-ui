@@ -1,0 +1,3 @@
+define("github-ui/templates/notfound", ["exports"], function (exports) {
+  exports["default"] = Ember.HTMLBars.template({ "id": "PN9QMQrq", "block": "{\"statements\":[[\"open-element\",\"h1\",[]],[\"flush-element\"],[\"text\",\"Oops!!!!! 404. You are searching for missing page\"],[\"close-element\"]],\"locals\":[],\"named\":[],\"yields\":[],\"blocks\":[],\"hasPartials\":false}", "meta": { "moduleName": "github-ui/templates/notfound.hbs" } });
+});

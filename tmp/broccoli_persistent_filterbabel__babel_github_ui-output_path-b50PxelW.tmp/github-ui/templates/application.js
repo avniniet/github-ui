@@ -1,0 +1,3 @@
+define("github-ui/templates/application", ["exports"], function (exports) {
+  exports["default"] = Ember.HTMLBars.template({ "id": "/m9uUxzV", "block": "{\"statements\":[[\"text\",\"\\n\\n\"],[\"open-element\",\"h3\",[]],[\"flush-element\"],[\"text\",\"Applicaion page\"],[\"close-element\"],[\"text\",\"\\n\"],[\"text\",\"\\n\"],[\"append\",[\"unknown\",[\"outlet\"]],false],[\"text\",\"\\n\"]],\"locals\":[],\"named\":[],\"yields\":[],\"blocks\":[],\"hasPartials\":false}", "meta": { "moduleName": "github-ui/templates/application.hbs" } });
+});

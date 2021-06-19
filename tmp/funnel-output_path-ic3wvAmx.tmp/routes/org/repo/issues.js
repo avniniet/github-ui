@@ -1,0 +1,1 @@
+/home/prostriker23/CodingPractice/emberjs-tutorial/github-ui/tmp/funnel-input_base_path-tT3UTVd0.tmp/routes/org/repo/issues.js

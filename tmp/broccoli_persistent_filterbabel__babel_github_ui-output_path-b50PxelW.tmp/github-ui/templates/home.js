@@ -1,0 +1,3 @@
+define("github-ui/templates/home", ["exports"], function (exports) {
+  exports["default"] = Ember.HTMLBars.template({ "id": "0az2QYW3", "block": "{\"statements\":[[\"open-element\",\"p\",[]],[\"flush-element\"],[\"text\",\"Home Page\"],[\"close-element\"],[\"text\",\"\\n\"],[\"block\",[\"link-to\"],[\"index\"],null,0],[\"text\",\"\\n\"],[\"append\",[\"unknown\",[\"outlet\"]],false],[\"text\",\"\\n\"]],\"locals\":[],\"named\":[],\"yields\":[],\"blocks\":[{\"statements\":[[\"text\",\"Go to Index\"]],\"locals\":[]}],\"hasPartials\":false}", "meta": { "moduleName": "github-ui/templates/home.hbs" } });
+});

@@ -1,0 +1,1 @@
+/home/prostriker23/CodingPractice/emberjs-tutorial/github-ui/tmp/funnel-input_base_path-o8KLOnd9.tmp/components/welcome-page.js

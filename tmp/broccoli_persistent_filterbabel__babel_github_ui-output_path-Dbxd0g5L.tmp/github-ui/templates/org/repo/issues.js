@@ -1,3 +1,0 @@
-define("github-ui/templates/org/repo/issues", ["exports"], function (exports) {
-  exports["default"] = Ember.HTMLBars.template({ "id": "JHh0feFk", "block": "{\"statements\":[[\"open-element\",\"h3\",[]],[\"flush-element\"],[\"text\",\"Issues page\"],[\"close-element\"],[\"text\",\"\\n\"],[\"append\",[\"unknown\",[\"outlet\"]],false],[\"text\",\"\\n\"]],\"locals\":[],\"named\":[],\"yields\":[],\"blocks\":[],\"hasPartials\":false}", "meta": { "moduleName": "github-ui/templates/org/repo/issues.hbs" } });
-});

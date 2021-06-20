@@ -1,0 +1,10 @@
+define('github-ui/routes/org/index', ['exports', 'ember'], function (exports, _ember) {
+    exports['default'] = _ember['default'].Route.extend({
+
+        beforeModel: function beforeModel() {
+            this._super.apply(this, arguments);
+            this.transitionTo('org.repos');
+        }
+
+    });
+});

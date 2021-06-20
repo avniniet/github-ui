@@ -1,0 +1,1 @@
+/home/prostriker23/CodingPractice/emberjs-tutorial/github-ui/tmp/broccoli_merge_trees-input_base_path-sGgS3AJH.tmp/3/initializers/export-application-global.js
